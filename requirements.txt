@@ -1,0 +1,7 @@
+# Python dependencies for the Anit-Raid Bot
+
+Flask
+requests
+beautifulsoup4
+numpy
+pandas
